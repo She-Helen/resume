@@ -1,0 +1,11 @@
+Базовые шрифты, их использовать эффективнее (не тянут css файл с сервера)
+https://systemfontstack.com/
+
+Тут проверяем вкладываемость тегов
+https://html.spec.whatwg.org/multipage/
+
+Валидатор html
+https://validator.w3.org/
+
+Тут можно быстро найти примеры кнопок, иконки в свг и прочее
+https://getbootstrap.com/docs/4.4/components/buttons/
